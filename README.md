@@ -12,7 +12,6 @@ https://hi-kartik2004.github.io/eduminatti/
 
 ![image](https://user-images.githubusercontent.com/111000515/208076302-25914ea0-624b-4eda-bab9-adc77c86b747.png)
 
-## Make users build trust 
 ![image](https://user-images.githubusercontent.com/111000515/208076346-47ad290b-275a-4cac-9f48-a7fd75e85970.png)
 
 ## Website/portal walk-through
